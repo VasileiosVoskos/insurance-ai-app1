@@ -1,0 +1,7 @@
+streamlit
+pandas
+matplotlib
+openai
+fpdf
+sendgrid
+Pillow
